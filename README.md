@@ -15,4 +15,4 @@ This repository contains my university assignments and academic work related to 
 ## 🎯 Purpose
 - Store and organize my university work  
 - Share useful academic material  
-- Keep an archive for future reference  
+- Keep an archive for future reference
